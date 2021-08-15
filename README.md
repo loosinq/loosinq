@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loosinq" alt="loosinq" /></a> </p>
 
-- 🔭 I’m currently working on **A ghost client**
+- 🔭 I’m currently working on **sushisense**
 
 - 🌱 I’m currently learning **Java,html**
 
