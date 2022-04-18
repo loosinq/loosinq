@@ -9,7 +9,7 @@
 
 - 👨‍💻My youtube channel [https://www.youtube.com/channel/UC0HNx7G1J3lFsBknYnnFiCw](https://www.youtube.com/channel/UC0HNx7G1J3lFsBknYnnFiCw)
 
-- 📫 How to reach me **sushi.#6969**
+- 📫 How to reach me **sushi!#0001**
 
 
 <h3 align="left">Languages and Tools:</h3>
